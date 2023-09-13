@@ -123,7 +123,7 @@ classdef FocalAdhesionPackage < Package
     methods (Static)
 
         function name = getName()
-            name = 'New Focal Adhesion Package';
+            name = 'Focal Adhesion Package';
         end
 
         function varargout = GUI(varargin)
