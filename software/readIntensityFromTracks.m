@@ -12,7 +12,7 @@ function tracksNA = readIntensityFromTracks(tracksNA,imgStack, attribute, vararg
 % Fix nested for-loop variable 'ii' (line 124) not supported in parfor-loops issue for
 % matlab version R2019b and after. by Qiongjing (Jenny) Zou, Jan 2021
 %
-% Copyright (C) 2023, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

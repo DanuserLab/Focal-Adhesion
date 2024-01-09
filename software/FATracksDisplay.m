@@ -3,7 +3,7 @@ classdef FATracksDisplay < MovieDataDisplay
     % Andrew R. Jamieson, Feb. 2017
     % Updated to include marker at the end - Sangyoon Han Nov 2017
 %
-% Copyright (C) 2023, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

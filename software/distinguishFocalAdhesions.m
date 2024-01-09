@@ -8,7 +8,7 @@ function [tracksAD,indAll] = distinguishFocalAdhesions(tracksAD, MD, outputPath)
 % called 'dynamicType'.
 % indAll={indNAatEdge,indMaturingNA,[],indDecayingFA,indMaturingFA, indOthers}; %To be compatible with 9-class-based
 %
-% Copyright (C) 2023, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

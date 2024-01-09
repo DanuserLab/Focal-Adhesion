@@ -7,7 +7,7 @@ function  [tau,tauAmp] = modifiedKendallCorr(x,varargin)
 %Based on "A New Measure of Rank Correlation", M.G.Kendall. Biometrika, Vol. 30, No 1/2, pp 81-93
 %Marco Vilela, 2012
 %
-% Copyright (C) 2023, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

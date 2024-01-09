@@ -3,7 +3,7 @@ function tracksNA = applyDriftToTracks(tracksNA, T, efficientSDC)
 % translation transformation from SDC Process to the tracksNA.
 % Sangyoon Han, 2016.
 %
-% Copyright (C) 2023, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 
