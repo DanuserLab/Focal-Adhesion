@@ -4,7 +4,7 @@ function [] = calculateInitialRiseTimeLagFromTracks(MD,varargin)
 % or TractionForceReadingProcess.
 % Sangyoon Han April 2013
 %
-% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

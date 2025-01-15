@@ -8,7 +8,7 @@ function [ maskAdhesion2 ] = refineAdhesionSegmentation(maskAdhesion, I, xNA, yN
 %           I               raw image
 %           xNA, yNA        x y coordinates of point sources
 %
-% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

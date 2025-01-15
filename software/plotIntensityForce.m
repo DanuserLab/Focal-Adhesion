@@ -4,7 +4,7 @@ function [longestCohorts,h]=plotIntensityForce(tracksNA, fileStore,alignEvent,in
 % idGroup1f = find(idGroup1);
 % Sangyoon Han, May 2015
 %
-% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

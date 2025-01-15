@@ -12,7 +12,7 @@ function [peakTimeIntAgainstForceAll,peakTimeIntAll,peakTimeForceAll] ...
 % Big change: I gave up updating tracksNA becuase it increase too much 
 % the file size
 %
-% Copyright (C) 2024, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 
