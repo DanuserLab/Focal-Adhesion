@@ -29,7 +29,7 @@ function analyzeAdhesionMaturation(MD)
 % Sangyoon Han April 2014
 % Andrew R. Jamieson Feb. 2017 - Updating to incorporate into MovieData Process GUI (Focal Adhesion Package)
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

@@ -54,7 +54,7 @@ function colors = distinguishable_colors(n_colors,bg,func)
 %   func = @(x) colorspace('RGB->Lab',x);
 %   c = distinguishable_colors(25,'w',func);
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

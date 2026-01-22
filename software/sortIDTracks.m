@@ -4,7 +4,7 @@ function         [idGroup1Selected,idGroup2Selected,idGroup3Selected,idGroup4Sel
     % for duplicate ids that were assigned to multiple different groups,
     % assign them to the latest group
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

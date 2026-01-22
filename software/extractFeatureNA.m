@@ -23,7 +23,7 @@ end
 % normalizationMethods=4 means normalization with maxIntensity and maxEdgeAdvance*pixSize and lifeTime in sec (using tInterval).
 % normalizationMethods=5 means normalizationMethods=5 means normalization per each feature min and max
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

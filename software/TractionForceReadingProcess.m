@@ -5,7 +5,7 @@ classdef TractionForceReadingProcess < DataProcessingProcess
 %             obj.funName_ = @readTractionForceFromTracks; % This should be variation from colocalizationAdhesionWithTFM
 %             obj.funParams_ = TractionForceReadingProcess.getDefaultParams(owner,varargin{1});
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 

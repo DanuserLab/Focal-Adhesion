@@ -18,7 +18,7 @@ for k=1:numTracks
     tracksNA(k).lifeTime = eF-sF;    
 end
 %
-% Copyright (C) 2025, Danuser Lab - UTSouthwestern 
+% Copyright (C) 2026, Danuser Lab - UTSouthwestern 
 %
 % This file is part of FocalAdhesionPackage.
 % 
